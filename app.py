@@ -159,7 +159,7 @@ TEMPLATE_CONFIRMACAO = r'''
             </svg>
         </div>
         <h2>Inscrição realizada com sucesso! <span style="font-size:1.2em;">🎉</span></h2>
-        <p>Você está cada vez mais perto de transformar sua vida através da beleza!</p>
+        <p>Você está cada vez mais perto de transformar sua vida!</p>
         <div class="protocolo-box">
             <div class="protocolo-label">Seu número de protocolo:</div>
             <div class="protocolo-numero">{{ protocolo }}</div>
