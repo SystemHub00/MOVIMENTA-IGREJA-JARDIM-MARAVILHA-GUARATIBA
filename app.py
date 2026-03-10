@@ -170,7 +170,7 @@ TEMPLATE_CONFIRMACAO = r'''
             Fique atenta(o) às mensagens e ligações!
         </div>
         <div class="btns">
-            <a class="btn-whatsapp" href="https://wa.me/?text=Acabei%20de%20me%20inscrever%20em%20um%20curso%20gratuito%20incr%C3%ADvel!%20Garanta%20sua%20vaga%20tamb%C3%A9m%20e%20venha%20transformar%20sua%20carreira%20comigo.%20Inscreva-se%20aqui:%20https://movimenta-augusto-vasconcelos-campo-grande.onrender.com" target="_blank">&#128241; COMPARTILHAR NO WHATSAPP</a>
+            <a class="btn-whatsapp" href="https://wa.me/?text=Acabei%20de%20me%20inscrever%20em%20um%20curso%20gratuito%20incr%C3%ADvel!%20Garanta%20sua%20vaga%20tamb%C3%A9m%20e%20venha%20transformar%20sua%20carreira%20comigo.%20Inscreva-se%20aqui:%20https://movimenta-igraja-jardim-maravilha-guaratiba.onrender.com" target="_blank">&#128241; COMPARTILHAR NO WHATSAPP</a>
             <a class="btn-inicio" href="/">VOLTAR AO INÍCIO</a>
         </div>
         <div class="proximos-passos">
