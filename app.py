@@ -1066,6 +1066,7 @@ TEMPLATE_INSCRICAO = '''
             border-left: 12px solid transparent;
             border-right: 12px solid transparent;
         }
+    </style>
     <!-- Meta Pixel Code -->
     <script>
     !function(f,b,e,v,n,t,s)
